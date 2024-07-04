@@ -1,2 +1,2 @@
 # new
-line2
+line 2 in new1
